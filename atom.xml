@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Miusha</title>
+  
+  <subtitle>Trendy Miushas, Exceptional Goobies.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-09-10T04:36:58.470Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>AA</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hotline Gooby - Fall is Coming</title>
+    <link href="http://yoursite.com/2018/09/10/Hotline-Gooby-Fall-is-Coming/"/>
+    <id>http://yoursite.com/2018/09/10/Hotline-Gooby-Fall-is-Coming/</id>
+    <published>2018-09-10T04:23:10.000Z</published>
+    <updated>2018-09-10T04:36:58.470Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Press-and-Publicity"><a href="#Press-and-Publicity" class="headerlink" title="Press and Publicity"></a>Press and Publicity</h3><p>Fall is coming and Gooby is ready. Are you?<br>Lately Gooby has been conducting several promotional shoots for publications such as <a href="https://www.shape.com/" target="_blank" rel="noopener">Shape</a> and <a href="https://www.vogue.com/" target="_blank" rel="noopener">Vogue</a>.</p><p>Please enjoy a sneak preview of his latest materials.</p><h4 id="Shape-Covershoot"><a href="#Shape-Covershoot" class="headerlink" title="Shape Covershoot"></a>Shape Covershoot</h4><p><img src="/uploads/goobycover1.jpg" alt=""></p><h3 id="Underground-Icon"><a href="#Underground-Icon" class="headerlink" title="Underground Icon"></a>Underground Icon</h3><p>Gooby has apparently become an underground icon for the wayward souls of society. Motivational, inspirational, and subversive art has been cropping up all over the world featuring Gooby.</p><h4 id="Italian-Revolution-Poster-Sample"><a href="#Italian-Revolution-Poster-Sample" class="headerlink" title="Italian Revolution Poster Sample"></a>Italian Revolution Poster Sample</h4><p><img src="/uploads/goobyposter1.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Press-and-Publicity&quot;&gt;&lt;a href=&quot;#Press-and-Publicity&quot; class=&quot;headerlink&quot; title=&quot;Press and Publicity&quot;&gt;&lt;/a&gt;Press and Publicity&lt;/h3&gt;&lt;p&gt;Fa
+      
+    
+    </summary>
+    
+    
+      <category term="Gooby, Promo, Underground, Revolution, Inspiration, Cat" scheme="http://yoursite.com/tags/Gooby-Promo-Underground-Revolution-Inspiration-Cat/"/>
+    
+  </entry>
+  
+</feed>
